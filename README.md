@@ -28,7 +28,7 @@ Discovering device IP_OF_DEVICE for 10 seconds
 ```
 
 The [README](https://github.com/python-kasa/python-kasa/blob/master/README.md#discovering-devices) explains that setting `KASA_USERNAME` and `KASA_PASSWORD` will
-allow for proper authentication. These are the credentials uses to add the
+allow for proper authentication. These are the credentials used to add the
 device to the Kasa App:
 
 ```
